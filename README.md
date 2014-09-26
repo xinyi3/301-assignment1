@@ -18,7 +18,7 @@
     */
 
 
-Android TODO list application. It is able to record TODO items, check items are done, archive items, browse visible and archived TODO options.and Email TODO items and Archived Items.
+Android TODO list application. It is able to record TODO items, check items are done, archive items, browse visible and archived TODO options, Email TODO items and Archived Items and get a summary.
 
 Most of the project is made using the Student-Picker video series as a reference guide.
 https://www.youtube.com/watch?v=5PPD0ncJU1g  26/09/2014
@@ -27,4 +27,16 @@ Some other sources used as erference include :
 http://examples.javacodegeeks.com/android/core/email/android-sending-email-example/  26/09/2014
 http://stackoverflow.com/questions/2197741/how-can-i-send-emails-from-my-android-application 26/09/2014
 
+Note, upon first cloning the app you might need to click on Project in Eclipse and Clean.
 
+In-App contorlls:
+	-Click settings button (top right) to navigate between TODO list, Archive, summary, and Email
+	-type in the name of your item and click Add button located on the bottom right
+	-Long Click on the items in either TODO list or Archived List to delete the item or move it into archived/Todo
+	-Click on the items in TODO list to check/uncheck them
+	-In the Summary page, press Give Me a Summary to look at varius data.
+	-Inside email, press: 	Email All Todo Items will Email all the items in TodoList
+				Email Selected Archived Items will navigate to a different page to let the user select 						items they wish to email.
+				Email Selected Todo Items will navigate to a different page to let the user select 						items they wish to email.
+				Email All Todo items Including Archived will email everything.
+				
