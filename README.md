@@ -20,12 +20,12 @@
 
 Android TODO list application. It is able to record TODO items, check items are done, archive items, browse visible and archived TODO options, Email TODO items and Archived Items and get a summary.
 
-Most of the project is made using the Student-Picker video series as a reference guide.
+Most of the project is made using the Student-Picker video series by Abram Hindle as a reference guide.
 https://www.youtube.com/watch?v=5PPD0ncJU1g  26/09/2014
 
 Some other sources used as erference include :
-http://examples.javacodegeeks.com/android/core/email/android-sending-email-example/  26/09/2014
-http://stackoverflow.com/questions/2197741/how-can-i-send-emails-from-my-android-application 26/09/2014
+Katerina Zamani, http://examples.javacodegeeks.com/android/core/email/android-sending-email-example/  26/09/2014
+fiXedd, http://stackoverflow.com/questions/2197741/how-can-i-send-emails-from-my-android-application 26/09/2014
 
 Note, upon first cloning the app you might need to click on Project in Eclipse and Clean.
 
