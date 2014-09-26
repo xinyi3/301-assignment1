@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.xinyi3_notes.MainActivity" >
+    <item android:id="@+id/archiveItem" android:onClick="archives" android:title="Archive"></item>
+    <item android:id="@+id/summaryItem1" android:onClick="summary" android:title="Summary"></item>
+    <item android:id="@+id/email" android:title="Email" android:onClick="email"></item>
+
+</menu>

@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/toArchive" android:onClick="toArchive" android:title="Archives"></item>
+    <item android:id="@+id/toMain" android:onClick="toMain" android:title="Todo List"></item>
+    <item android:id="@+id/toSummary" android:onClick="toSummary" android:title="Summary"></item>
+
+</menu>
